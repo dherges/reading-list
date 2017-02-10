@@ -4,7 +4,7 @@
 
 :information_source:  level: starters, basic knowledge
 
-[![Angular 2 Tutorial: Concepts Overview](https://img.youtube.com/vi/X5YopWEpIEM/0.jpg)](http://youtube.com/watch?v= X5YopWEpIEM)
+[![Angular 2 Tutorial: Concepts Overview](https://img.youtube.com/vi/X5YopWEpIEM/0.jpg)](https://youtu.be/X5YopWEpIEM)
 
 http://youtube.com/watch?v=X5YopWEpIEM
 
@@ -46,7 +46,7 @@ https://www.amazon.de/Angular-Moderne-Webanwendungen-Applications-JavaScript/dp/
 
 :information_source: level: advanced, focuses on AoT, Tree-Shaking, Clojure Compiler
 
-[![Angular 2 Tutorial: Concepts Overview](https://img.youtube.com/vi/_VnV7R4Ncwc/0.jpg)](http://youtube.com/watch?v= _VnV7R4Ncwc)
+[![Angular 2 Tutorial: Concepts Overview](https://img.youtube.com/vi/_VnV7R4Ncwc/0.jpg)](https://youtu.be/_VnV7R4Ncwc)
 
 https://youtu.be/_VnV7R4Ncwc
 
@@ -79,13 +79,13 @@ https://github.com/manfredsteyer/angular2-aot-webpack2-rollup
 
 #### Netflix JavaScript Talks - Async JavaScript with Reactive Extensions
 
-[![Async JavaScript with Reactive Extensions](http://img.youtube.com/vi/XRYN2xt11Ek/0.jpg)](http://youtube.com/watch?v=XRYN2xt11Ek)
+[![Async JavaScript with Reactive Extensions](http://img.youtube.com/vi/XRYN2xt11Ek/0.jpg)](https://youtu.be/XRYN2xt11Ek)
 
 http://youtube.com/watch?v=XRYN2xt11Ek
 
 #### Zone.js
 
-[![screenshot of the zone.js presentation and ng-conf 2014](http://img.youtube.com/vi/3IqtmUscE_U/0.jpg)](http://youtube.com/watch?v=3IqtmUscE_U)
+[![screenshot of the zone.js presentation and ng-conf 2014](http://img.youtube.com/vi/3IqtmUscE_U/0.jpg)](https://youtu.be/3IqtmUscE_U)
 
 
 https://www.youtube.com/watch?v=3IqtmUscE_U
