@@ -5,6 +5,7 @@
  * [Jasmine Reference](https://jasmine.github.io/2.5/introduction.html)
    * [Angular2 Unit Testing Recipes](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.dvv9iii1t)
    * [Testing Components in Angular2 with Jasmine](https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
+   * [Testing Angular2 HTTP Services with Jasmine](https://semaphoreci.com/community/tutorials/testing-angular-2-http-services-with-jasmine)
  * [Karma Configuration](https://karma-runner.github.io/1.0/config/configuration-file.html)
  * Protractor
    * [Using a Framework](http://www.protractortest.org/#/frameworks)
@@ -12,6 +13,10 @@
    * [Page Objects](http://www.protractortest.org/#/page-objects)
    * [Debugging](http://www.protractortest.org/#/debugging)
 
+
+#### CLI
+
+ * [CLI Reference](https://cli.angular.io/reference.pdf)
 
 #### Concepts & Overview
 
