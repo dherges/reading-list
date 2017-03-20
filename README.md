@@ -18,6 +18,7 @@
 
  * [CLI Reference](https://cli.angular.io/reference.pdf)
 
+
 #### Concepts & Overview
 
 :information_source:  level: starters, basic knowledge
@@ -25,6 +26,7 @@
 [![Angular 2 Tutorial: Concepts Overview](https://img.youtube.com/vi/X5YopWEpIEM/0.jpg)](https://youtu.be/X5YopWEpIEM)
 
 http://youtube.com/watch?v=X5YopWEpIEM
+
 
 #### Angular2 – Moderne Webanwendungen und Single Page Applications mit JavaScript
 
@@ -39,7 +41,8 @@ https://www.oreilly.de/buecher/12469/Angular%202.html
 
 https://www.amazon.de/Angular-Moderne-Webanwendungen-Applications-JavaScript/dp/3960090269
 
-#### Reading List
+
+#### Reading List (Misc)
 
 * Angular2 Official Docs to get people on board:
   * Displaying Data: https://angular.io/docs/ts/latest/guide/displaying-data.html
@@ -82,14 +85,16 @@ https://docs.google.com/presentation/d/1yk70w0-X7uN1eZaatOypmQ51jLjhiCIU8Ifucs69
 * Angular Data Binding Performance with OnPush, Immutables and Observables: https://speakerdeck.com/manfredsteyer/angular-data-binding-performance-with-onpush-immutables-and-observables
 * Immutability vs. Encapsulation: https://vsavkin.com/immutability-vs-encapsulation-90549ab74487#.t4jmbt9v4
 
+
 #### Ahead-of-Time (AoT) Compilation
 
-https://www.softwarearchitekt.at/post/2016/09/18/angular-2-aot-compiler-and-tree-shaking-with-webpack2-and-or-rollup-step-by-step.aspx
+ * [Angular 2 AOT Compilation And Tree Shaking With Webpack2 And/Or Rollup: Step By Step](https://www.softwarearchitekt.at/post/2016/09/18/angular-2-aot-compiler-and-tree-shaking-with-webpack2-and-or-rollup-step-by-step.aspx), Manfred Steyer
+   * Code Sample: https://github.com/manfredsteyer/angular2-aot-webpack2-rollup
+ * [Getting your Angular 2 library ready for AoT](https://medium.com/@isaacplmann/getting-your-angular-2-library-ready-for-aot-90d1347bcad), Isaac Mann
+ * [Making your Angular 2 library statically analyzable for AoT](https://medium.com/@isaacplmann/making-your-angular-2-library-statically-analyzable-for-aot-e1c6f3ebedd5), Isaac Mann
 
-https://github.com/manfredsteyer/angular2-aot-webpack2-rollup
 
-
---
+---
 
 
 
