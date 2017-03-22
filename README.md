@@ -3,7 +3,8 @@
 #### Testing
 
  * [Jasmine Reference](https://jasmine.github.io/2.5/introduction.html)
-   * [Angular2 Unit Testing Recipes](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.dvv9iii1t)
+   * [Angular2 Unit Testing Recipes](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584), Gerard Sans on medium.com, Feb 9, 2016
+   * [Testing Strategies in Angular2](https://docs.google.com/presentation/d/1UkuJgBaOAjDMYiMBLT38LEWMzh6sW_iliTPF1PHnmzY), Julie Ralph at Angular Connect, London, October 2015
    * [Testing Components in Angular2 with Jasmine](https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
    * [Testing Angular2 HTTP Services with Jasmine](https://semaphoreci.com/community/tutorials/testing-angular-2-http-services-with-jasmine)
  * [Karma Configuration](https://karma-runner.github.io/1.0/config/configuration-file.html)
@@ -42,27 +43,6 @@ https://www.oreilly.de/buecher/12469/Angular%202.html
 https://www.amazon.de/Angular-Moderne-Webanwendungen-Applications-JavaScript/dp/3960090269
 
 
-#### Reading List (Misc)
-
-* Angular2 Official Docs to get people on board:
-  * Displaying Data: https://angular.io/docs/ts/latest/guide/displaying-data.html
-  * User Input: https://angular.io/docs/ts/latest/guide/user-input.html
-  * Template Syntax: https://angular.io/docs/ts/latest/guide/template-syntax.html
-  * Component Interaction: https://angular.io/docs/ts/latest/cookbook/component-communication.html
-  * Forms: https://angular.io/docs/ts/latest/guide/forms.html
-  * Routing: https://angular.io/docs/ts/latest/guide/router.html
-  * Dependency Injection: https://angular.io/docs/ts/latest/cookbook/dependency-injection.html
-  * Style Guide: https://angular.io/docs/ts/latest/guide/style-guide.html
-* Viktor Savkin on Angular
-  * The Core Concepts of Angular 2: https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04
-  * Angular Router: Understanding Router State: https://vsavkin.com/angular-router-understanding-router-state-7b5b95a12eab
-  * Three Ways to Test Angular 2 Components: https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d
-* Blogs:
-  * Minko Gechev: http://blog.mgechev.com/posts/
-  * Manfred Steyer: https://www.softwarearchitekt.at/default.aspx
-  * Nrwl Blog: https://blog.nrwl.io
-
-
 #### Optimizing Angular2 Apps
 
 :information_source: level: advanced, focuses on AoT, Tree-Shaking, Clojure Compiler
@@ -77,6 +57,8 @@ https://youtu.be/_VnV7R4Ncwc
 :information_source: level: advanced
 
 https://docs.google.com/presentation/d/1yk70w0-X7uN1eZaatOypmQ51jLjhiCIU8Ifucs69iWw/preview?slide=id.p
+
+Stephen Fluin, Feb 8th 2017, Angular MTV
 
 
 #### Data Binding & Performance Tuning
@@ -94,8 +76,30 @@ https://docs.google.com/presentation/d/1yk70w0-X7uN1eZaatOypmQ51jLjhiCIU8Ifucs69
  * [Making your Angular 2 library statically analyzable for AoT](https://medium.com/@isaacplmann/making-your-angular-2-library-statically-analyzable-for-aot-e1c6f3ebedd5), Isaac Mann
 
 
----
+#### Reading List (Misc)
 
+* Angular2 Official Docs to get people on board:
+  * Displaying Data: https://angular.io/docs/ts/latest/guide/displaying-data.html
+  * User Input: https://angular.io/docs/ts/latest/guide/user-input.html
+  * Template Syntax: https://angular.io/docs/ts/latest/guide/template-syntax.html
+  * Component Interaction: https://angular.io/docs/ts/latest/cookbook/component-communication.html
+  * Forms: https://angular.io/docs/ts/latest/guide/forms.html
+  * Routing: https://angular.io/docs/ts/latest/guide/router.html
+  * Dependency Injection: https://angular.io/docs/ts/latest/cookbook/dependency-injection.html
+  * Style Guide: https://angular.io/docs/ts/latest/guide/style-guide.html
+* Viktor Savkin on Angular Concepts
+  * The Core Concepts of Angular 2: https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04
+  * Angular Router: Understanding Router State: https://vsavkin.com/angular-router-understanding-router-state-7b5b95a12eab
+  * Three Ways to Test Angular 2 Components: https://vsavkin.com/three-ways-to-test-angular-2-components-dcea8e90bd8d
+
+
+#### Blogs
+* Minko Gechev: http://blog.mgechev.com/posts/
+* Manfred Steyer: https://www.softwarearchitekt.at/default.aspx
+* Nrwl Blog: https://blog.nrwl.io
+
+
+---
 
 
 ## JavaScript
@@ -135,8 +139,8 @@ https://channel9.msdn.com/Search?term=TypeScript%20#pubDate=year&ch9Search&lang-
   * Anders Hejlsberg on TypeScript 2: https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-TypeScript-2
 
 
-
 ---
+
 
 ## CSS Tools & Frameworks
 
