@@ -2,6 +2,11 @@
 
 #### Testing
 
+[![Turbocharge Your Angular Testing Workflow - Victor Mejia](https://img.youtube.com/vi/wj3dStoEhso/0.jpg)](https://youtu.be/wj3dStoEhso)
+
+Turbocharge Your Angular Testing Workflow - Victor Mejia at ng-conf 2017: https://youtu.be/wj3dStoEhso
+
+
  * [Jasmine Reference](https://jasmine.github.io/2.5/introduction.html)
    * [Angular2 Unit Testing Recipes](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584), Gerard Sans on medium.com, Feb 9, 2016
    * [Testing Strategies in Angular2](https://docs.google.com/presentation/d/1UkuJgBaOAjDMYiMBLT38LEWMzh6sW_iliTPF1PHnmzY), Julie Ralph at Angular Connect, London, October 2015
