@@ -109,6 +109,18 @@ Stephen Fluin, Feb 8th 2017, Angular MTV
 ---
 
 
+## Docker
+
+#### Docker: What Every Angular Developer Should Know About It! - Dan Wahlin
+
+[![Docker: What Every Angular Developer Should Know About It! - Dan Wahlin](http://img.youtube.com/vi/socWfhPJptE/0.jpg)](https://youtu.be/XRYN2xt11Ek)
+
+Dan Wahlin at ng-conf 2017, https://youtu.be/socWfhPJptE
+
+
+
+---
+
 ## JavaScript
 
 #### Netflix JavaScript Talks - Async JavaScript with Reactive Extensions
