@@ -14,6 +14,13 @@
    * [Page Objects](http://www.protractortest.org/#/page-objects)
    * [Debugging](http://www.protractortest.org/#/debugging)
 
+#### Building Libraries
+
+ * [Angular Package Format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview)
+ 
+ [![Packaging Angular - Jason Aden](https://img.youtube.com/vi/unICbsPGFIA/0.jpg)](https://youtu.be/unICbsPGFIA)
+
+Packaging Angular - Jason Aden at ng-conf 2017: https://youtu.be/unICbsPGFIA
 
 #### CLI
 
