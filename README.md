@@ -19,6 +19,14 @@ Turbocharge Your Angular Testing Workflow - Victor Mejia at ng-conf 2017: https:
    * [Page Objects](http://www.protractortest.org/#/page-objects)
    * [Debugging](http://www.protractortest.org/#/debugging)
 
+#### Styling
+
+ [![Angular 2's Fresh Approach to Style - Justin Schwartzenberger](https://img.youtube.com/vi/J5Bvy4KhIs0/0.jpg)](https://youtu.be/J5Bvy4KhIs0)
+
+Angular 2's Fresh Approach to Style - Justin Schwartzenberger
+ - `:host-context()` [is explained at 16:00](https://youtu.be/J5Bvy4KhIs0?t=16m1s)
+
+
 #### Building Libraries
 
  * [Angular Package Format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview)
